@@ -12,6 +12,11 @@ http://www.java.com/pt_BR/download/manual.jsp
 - Botão IRPF > Download do Programa > Windows > Programa IRPF
 - Instala o executável
 
+## Começando
+
+Se puder, importar dados da declaração anterior (tem que ter salvo do ano pasado).
+Caso não tenha, criar uma nova declaração vazia e preencher todos os dados pessoais.
+
 ## Finalizando
 
 - Gerar PDF Declaração
