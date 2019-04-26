@@ -11,3 +11,10 @@ http://www.java.com/pt_BR/download/manual.jsp
 - http://receita.economia.gov.br/
 - Botão IRPF > Download do Programa > Windows > Programa IRPF
 - Instala o executável
+
+## Finalizando
+
+- Gerar PDF Declaração
+-- Declaração > Salvar Imagem em PDF > Declaração
+- Gerar PDF Recibo
+-- Declaração > Salvar Imagem em PDF > Recibo
