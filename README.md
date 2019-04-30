@@ -21,8 +21,10 @@ Caso não tenha, criar uma nova declaração vazia e preencher todos os dados pe
   - Pegar PDF Informe de Rendimentos com contador
   - Preencher "Rendimentos Tributáveis Recebidos de Pessoa Jurídica" no programa IRPF
 - Rendimentos Nubank
+  - Instruções no site/email
 - Seguro Saúde
-  - depende do plano
+  - Depende do plano se precisa preencher ou não
+  - Instruções no site/email
 
 ## Finalizando
 
