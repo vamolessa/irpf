@@ -17,11 +17,12 @@ http://www.java.com/pt_BR/download/manual.jsp
 Se puder, importar dados da declaração anterior (tem que ter salvo do ano pasado).
 Caso não tenha, criar uma nova declaração vazia e preencher todos os dados pessoais.
 
-## Lembrar
-
 - Salário
+-- Pegar PDF Informe de Rendimentos com contador
+-- Preencher "Rendimentos Tributáveis Recebidos de Pessoa Jurídica" no programa IRPF
 - Rendimentos Nubank
 - Seguro Saúde
+-- depende do plano
 
 ## Finalizando
 
