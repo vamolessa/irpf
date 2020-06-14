@@ -2,18 +2,15 @@
 Pra eu me lembrar como se declara isso aí ano que vem. Brigado. De nada.
 
 ## Pré-requisitos
-
 Precisa ter Java (JVM) instalado.
-http://www.java.com/pt_BR/download/manual.jsp
+[java.com/pt_BR/download/manual.jsp](http://www.java.com/pt_BR/download/manual.jsp)
 
 ## Instalação
-
-- http://receita.economia.gov.br/
+- [receita.economia.gov.br](http://receita.economia.gov.br/)
 - Botão IRPF > Download do Programa > Windows > Programa IRPF
 - Instala o executável
 
-## Começando
-
+## Declarando
 Se puder, importar dados da declaração anterior (tem que ter salvo do ano pasado).
 Caso não tenha, criar uma nova declaração vazia e preencher todos os dados pessoais.
 
@@ -25,9 +22,12 @@ Caso não tenha, criar uma nova declaração vazia e preencher todos os dados pe
 - Seguro Saúde
   - Depende do plano se precisa preencher ou não
   - Instruções no site/email
+  - Provavelmente em "Pagamentos Efetuados"
+
+### Checagem
+A qualquer momento, você pode clicar no botão verde de "check" na barra superior para verificar se esqueceu de alguma pendência.
 
 ## Finalizando
-
 - Gerar PDF Declaração
   - Declaração > Salvar Imagem em PDF > Declaração
 - Gerar PDF Recibo
