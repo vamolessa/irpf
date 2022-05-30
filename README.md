@@ -5,6 +5,8 @@ Pra eu me lembrar como se declara isso aí ano que vem. Brigado. De nada.
 Precisa ter Java (JVM) instalado.
 [java.com/pt_BR/download/manual.jsp](http://www.java.com/pt_BR/download/manual.jsp)
 
+NOTA: os instaladores atuais parece não precisar ter o java pré-instalado no pc.
+
 ## Instalação
 - [receita.economia.gov.br](http://receita.economia.gov.br/)
 - Botão IRPF > Download do Programa > Windows > Programa IRPF
