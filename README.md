@@ -10,7 +10,7 @@ NOTA: os instaladores atuais parece não precisar ter o java pré-instalado no p
 ## Instalação
 - [receita.economia.gov.br](http://receita.economia.gov.br/)
 - Botão IRPF > Download do Programa > Windows > Programa IRPF
-  - https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/download/pgd/dirpf
+  - [gov.br/receitafederal/pt-br/centrais-de-conteudo/download/pgd/dirpf](https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/download/pgd/dirpf)
 - Instala o executável
 
 ## Declarando
