@@ -8,6 +8,7 @@ Precisa ter Java (JVM) instalado.
 ## Instalação
 - [receita.economia.gov.br](http://receita.economia.gov.br/)
 - Botão IRPF > Download do Programa > Windows > Programa IRPF
+  - https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/download/pgd/dirpf
 - Instala o executável
 
 ## Declarando
